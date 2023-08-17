@@ -1,2 +1,2 @@
 # textutils
-Here you are perform some text operation
+Here you can perform some text operation
