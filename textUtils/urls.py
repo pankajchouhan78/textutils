@@ -21,6 +21,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.index),
     path('analyzee/',views.analyzee),
-
-    path('auth/',include("authen.urls"))
 ]
